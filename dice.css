@@ -121,9 +121,11 @@ input{
 
     .foot{
     text-align: center;
-    margin-top:45px;
-    
+    margin-top:0px;
+    overflow: auto;
     color:white;
+    position: relative;
+    bottom: 50px;
     
 }
 
@@ -163,13 +165,14 @@ input{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    margin:10px;
 }
 
 input{
     padding: 10px;
     justify-content: center;
     left:40%;
-    bottom:0px;
+    margin-bottom: 60px;
     font-size: 1rem;
     font-weight: bold;
     border-radius: 3px;
@@ -179,7 +182,7 @@ input{
 }
 
 .flex-items div {
-    margin:30px;
+    margin:40px;
     
 
     

@@ -1,7 +1,7 @@
 //Let User Enter Their Names//
 
-// var firstPlayer = prompt('Player 1 Name: ');
-// var secondPlayer = prompt('Player 2 Name: ');
+var firstPlayer = prompt('Player 1 Name: ');
+var secondPlayer = prompt('Player 2 Name: ');
 
 // Replace players Name//
 
